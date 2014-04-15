@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Netduino1OnBoard", "Netduino1OnBoard\01_Netduino1OnBoard.csproj", "{81E519D6-E78E-4BF0-BA1A-0DB72331FD11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Netduino1OnBoardLedSwitch", "Netduino1OnBoardLedSwitch\02_Netduino1OnBoardLedSwitch.csproj", "{0D19D8E2-4F56-4DF7-BD5A-00CEC1959D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Netduino1OnBoardLedInterrupt", "Netduino1OnBoardLedInterrupt\03_Netduino1OnBoardLedInterrupt.csproj", "{DE043C08-2823-4712-972B-37A47F8EA255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Netduino1OnBoardMorse", "Netduino1OnBoardMorse\04_Netduino1OnBoardMorse.csproj", "{49EAA7AA-CF4F-4842-BB71-5EEFF5F5F4F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E519D6-E78E-4BF0-BA1A-0DB72331FD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E519D6-E78E-4BF0-BA1A-0DB72331FD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E519D6-E78E-4BF0-BA1A-0DB72331FD11}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{81E519D6-E78E-4BF0-BA1A-0DB72331FD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E519D6-E78E-4BF0-BA1A-0DB72331FD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E519D6-E78E-4BF0-BA1A-0DB72331FD11}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0D19D8E2-4F56-4DF7-BD5A-00CEC1959D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D19D8E2-4F56-4DF7-BD5A-00CEC1959D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D19D8E2-4F56-4DF7-BD5A-00CEC1959D84}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0D19D8E2-4F56-4DF7-BD5A-00CEC1959D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D19D8E2-4F56-4DF7-BD5A-00CEC1959D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D19D8E2-4F56-4DF7-BD5A-00CEC1959D84}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DE043C08-2823-4712-972B-37A47F8EA255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE043C08-2823-4712-972B-37A47F8EA255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE043C08-2823-4712-972B-37A47F8EA255}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DE043C08-2823-4712-972B-37A47F8EA255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE043C08-2823-4712-972B-37A47F8EA255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE043C08-2823-4712-972B-37A47F8EA255}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{49EAA7AA-CF4F-4842-BB71-5EEFF5F5F4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EAA7AA-CF4F-4842-BB71-5EEFF5F5F4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EAA7AA-CF4F-4842-BB71-5EEFF5F5F4F8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{49EAA7AA-CF4F-4842-BB71-5EEFF5F5F4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EAA7AA-CF4F-4842-BB71-5EEFF5F5F4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EAA7AA-CF4F-4842-BB71-5EEFF5F5F4F8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
